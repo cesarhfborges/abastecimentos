@@ -1,0 +1,7 @@
+{
+  "name": "abastecimento",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
