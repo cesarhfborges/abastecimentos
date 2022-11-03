@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Calculadora } from '../@shared/models/calculadora';
+import { Calculadora } from '../shared/models/calculadora';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { ToastController } from '@ionic/angular';
 import { Router } from '@angular/router';

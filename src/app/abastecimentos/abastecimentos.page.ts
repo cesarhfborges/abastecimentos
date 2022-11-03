@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { faker } from '@faker-js/faker';
-import { Abastecimento } from '../@shared/models/abastecimento';
+import { Abastecimento } from '../shared/models/abastecimento';
 
 @Component({
   selector: 'app-abastecimentos',
